@@ -1,0 +1,5 @@
+.env
+.dotenv
+node_modules
+utils/
+testdata.txt
